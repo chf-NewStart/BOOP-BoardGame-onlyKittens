@@ -1,5 +1,5 @@
 # BOOP-BoardGame-onlyKittens
-
+inspired by 💡[The RL Tic-Tac-Toe game](https://github.com/khpeek/Q-learning-Tic-Tac-Toe/tree/master) 
 ### Trained Q-learning Model
 The trained Q-learning model (`Q_epsilon_09_Nepisodes_10000.p`) is too large for GitHub.  
 You can download it from Google Drive:  
